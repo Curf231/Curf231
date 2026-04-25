@@ -23,12 +23,6 @@
 
 ---
 
-### Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Curf231&theme=tokyonight&no-frame=true&row=1&margin-w=8)
-
----
-
 ### Projects
 
 | Repo | Lang |
@@ -43,5 +37,11 @@
 ### Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Curf231&theme=tokyo-night&hide_border=true)
+
+---
+
+### Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Curf231/Curf231/output/github-contribution-grid-snake-dark.svg)
 
 </div>
